@@ -58,6 +58,48 @@
   </url>
   
   <url>
+    <loc>http://pastelcravings.com/tags/-diberville/</loc>
+    <lastmod>2017-11-20T20:02:03-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/-guy-concordia/</loc>
+    <lastmod>2017-10-14T10:10:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/-papineau/</loc>
+    <lastmod>2017-10-17T22:32:48-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/-peel/</loc>
+    <lastmod>2017-10-14T10:10:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/-place-darmes/</loc>
+    <lastmod>2017-11-19T20:02:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/-square-victoria/</loc>
+    <lastmod>2017-10-12T11:10:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/-st-laurent/</loc>
+    <lastmod>2017-11-20T20:01:50-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://pastelcravings.com/authors/anna/</loc>
     <lastmod>2017-11-20T20:02:03-05:00</lastmod>
     <priority>0</priority>
@@ -70,8 +112,14 @@
   </url>
   
   <url>
-    <loc>http://pastelcravings.com/tags/bar/</loc>
+    <loc>http://pastelcravings.com/categories/bars/</loc>
     <lastmod>2017-10-12T11:10:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/beaubien/</loc>
+    <lastmod>2017-11-20T20:02:03-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,7 +134,14 @@
   </url>
   
   <url>
+    <loc>http://pastelcravings.com/tags/byow/</loc>
+    <lastmod>2018-01-13T14:06:46-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://pastelcravings.com/categories/</loc>
+    <lastmod>2017-10-12T11:10:50-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -97,12 +152,6 @@
   
   <url>
     <loc>http://pastelcravings.com/tags/coffee-crawling/</loc>
-    <lastmod>2017-11-20T20:01:50-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://pastelcravings.com/tags/coffee-shop/</loc>
     <lastmod>2017-11-20T20:02:03-05:00</lastmod>
     <priority>0</priority>
   </url>
@@ -121,7 +170,7 @@
   
   <url>
     <loc>http://pastelcravings.com/tags/downtown-montreal/</loc>
-    <lastmod>2017-10-14T10:10:50-04:00</lastmod>
+    <lastmod>2018-01-13T14:06:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -137,12 +186,6 @@
   </url>
   
   <url>
-    <loc>http://pastelcravings.com/tags/gay-village/</loc>
-    <lastmod>2017-10-17T22:32:48-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://pastelcravings.com/tags/griffintown/</loc>
     <lastmod>2017-10-16T19:10:19-04:00</lastmod>
     <priority>0</priority>
@@ -150,13 +193,19 @@
   
   <url>
     <loc>http://pastelcravings.com/tags/guy-concordia/</loc>
-    <lastmod>2017-10-12T11:10:50-04:00</lastmod>
+    <lastmod>2018-01-13T14:06:42-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pastelcravings.com/authors/kim-s/</loc>
     <lastmod>2017-11-19T20:02:14-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/lasalle/</loc>
+    <lastmod>2018-01-13T14:06:46-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -209,18 +258,6 @@
   </url>
   
   <url>
-    <loc>http://pastelcravings.com/tags/square-victoria/</loc>
-    <lastmod>2017-10-12T11:10:50-04:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://pastelcravings.com/tags/st-laurent/</loc>
-    <lastmod>2017-11-20T20:01:50-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://pastelcravings.com/tags/study/</loc>
     <lastmod>2017-11-19T20:02:14-05:00</lastmod>
     <priority>0</priority>
@@ -234,7 +271,19 @@
   
   <url>
     <loc>http://pastelcravings.com/tags/</loc>
+    <lastmod>2017-11-20T20:02:03-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/tapas/</loc>
     <lastmod>2017-10-12T11:10:50-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/the-village/</loc>
+    <lastmod>2017-10-17T22:32:48-04:00</lastmod>
     <priority>0</priority>
   </url>
   
