@@ -251,10 +251,12 @@ article hr {
 }
 
 .fade-up {
-    opacity: 0.5;
-    transition: opacity 400ms, -webkit-filter 400ms;
+    -webkit-filter: grayscale(50%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(50%);
+    transition: filter 400ms, -webkit-filter 400ms;
 }
 
 .fade-up.lazyloaded {
-    opacity: 1;
+    -webkit-filter: grayscale(0%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(0%);
 }
