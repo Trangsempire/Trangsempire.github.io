@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://pastelcravings.com/post/ichigoichie/</loc>
+    <lastmod>2018-03-04T16:51:13-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pastelcravings.com/post/kyomi/</loc>
     <lastmod>2018-01-13T14:06:46-05:00</lastmod>
   </url>
@@ -147,7 +152,7 @@
   
   <url>
     <loc>http://pastelcravings.com/post/</loc>
-    <lastmod>2018-01-13T14:06:46-05:00</lastmod>
+    <lastmod>2018-03-04T16:51:13-05:00</lastmod>
   </url>
   
   <url>
@@ -222,6 +227,12 @@
   </url>
   
   <url>
+    <loc>http://pastelcravings.com/tags/mont-royal/</loc>
+    <lastmod>2018-03-04T16:51:13-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://pastelcravings.com/featured/no/</loc>
     <lastmod>2018-01-13T14:06:46-05:00</lastmod>
     <priority>0</priority>
@@ -229,7 +240,7 @@
   
   <url>
     <loc>http://pastelcravings.com/</loc>
-    <lastmod>2018-01-13T14:06:46-05:00</lastmod>
+    <lastmod>2018-03-04T16:51:13-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -247,7 +258,7 @@
   
   <url>
     <loc>http://pastelcravings.com/categories/restaurant/</loc>
-    <lastmod>2018-01-13T14:06:46-05:00</lastmod>
+    <lastmod>2018-03-04T16:51:13-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -283,13 +294,13 @@
   
   <url>
     <loc>http://pastelcravings.com/authors/trang/</loc>
-    <lastmod>2018-01-13T14:06:46-05:00</lastmod>
+    <lastmod>2018-03-04T16:51:13-05:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pastelcravings.com/featured/yes/</loc>
-    <lastmod>2017-11-19T20:02:14-05:00</lastmod>
+    <lastmod>2018-03-04T16:51:13-05:00</lastmod>
     <priority>0</priority>
   </url>
   
