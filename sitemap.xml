@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://pastelcravings.com/post/vietnamesesecrets/</loc>
+    <lastmod>2018-03-17T14:48:54-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://pastelcravings.com/post/ichigoichie/</loc>
     <lastmod>2018-03-04T16:51:13-05:00</lastmod>
   </url>
@@ -152,7 +157,7 @@
   
   <url>
     <loc>http://pastelcravings.com/post/</loc>
-    <lastmod>2018-03-04T16:51:13-05:00</lastmod>
+    <lastmod>2018-03-17T14:48:54-04:00</lastmod>
   </url>
   
   <url>
@@ -164,6 +169,18 @@
   <url>
     <loc>http://pastelcravings.com/categories/coffee-shops/</loc>
     <lastmod>2017-11-20T20:02:03-05:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/categories/cookbook/</loc>
+    <lastmod>2018-03-17T14:48:54-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://pastelcravings.com/tags/cookbook/</loc>
+    <lastmod>2018-03-17T14:48:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -198,7 +215,7 @@
   
   <url>
     <loc>http://pastelcravings.com/authors/kim-s/</loc>
-    <lastmod>2017-11-19T20:02:14-05:00</lastmod>
+    <lastmod>2018-03-17T14:48:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -234,13 +251,13 @@
   
   <url>
     <loc>http://pastelcravings.com/featured/no/</loc>
-    <lastmod>2018-01-13T14:06:46-05:00</lastmod>
+    <lastmod>2018-03-17T14:48:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://pastelcravings.com/</loc>
-    <lastmod>2018-03-04T16:51:13-05:00</lastmod>
+    <lastmod>2018-03-17T14:48:54-04:00</lastmod>
     <priority>0</priority>
   </url>
   
