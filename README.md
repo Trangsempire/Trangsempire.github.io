@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center">Hugo source files for <a href="http://pastelcravings.com">PastelCravings.com</a></h4>
+<h4 align="center">Hugo source files for <a href="http://pastelcravings.ca">PastelCravings.com</a></h4>
 
 ## Authors
 
