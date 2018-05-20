@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cookbook on Pastel Cravings</title>
+    <link>http://pastelcravings.com/categories/cookbook/</link>
+    <description>Recent content in Cookbook on Pastel Cravings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Mar 2018 14:48:54 -0400</lastBuildDate>
+    
+	<atom:link href="http://pastelcravings.com/categories/cookbook/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vietnamese Secrets</title>
+      <link>http://pastelcravings.com/post/vietnamesesecrets/</link>
+      <pubDate>Sat, 17 Mar 2018 14:48:54 -0400</pubDate>
+      
+      <guid>http://pastelcravings.com/post/vietnamesesecrets/</guid>
+      <description>Hello everyone!
+This post is little different. It&amp;rsquo;s not a review of a restaurant or cafe, but a book. But hey, it&amp;rsquo;s still related to food! I received my first cookbook ever for holidays and it&amp;rsquo;s Kim Thúy&amp;rsquo;s &amp;ldquo;Le secret des vietnamiennes&amp;rdquo;.
+If you have read Kim Thúy&amp;rsquo;s books, you must have noticed the simple and beautiful writing style. There is also something delicate about it.
+The simplicity and delicacy are still very present in the cook book.</description>
+    </item>
+    
+  </channel>
+</rss>
